@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# A Python script for basic Insertion Sort and Binary Insertion Sort.
+
+
 def binary_search(arr, key, start, end):
     if start == end:
         if arr[start] > key:

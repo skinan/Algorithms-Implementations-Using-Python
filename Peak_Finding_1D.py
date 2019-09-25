@@ -27,7 +27,7 @@ def main():
     result = find_peak(array_list, 1, array_length - 1)
     if result:
         print("A 1D peak is: ", result)
-    else:
+    else:   # This 'else' condition will never run as there exists a peak always in an 1D array.
         print("There is no 1D peak in the array.")
 
 

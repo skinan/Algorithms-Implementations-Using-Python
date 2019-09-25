@@ -22,8 +22,7 @@ def merge(array_list, start_index, mid, end_index):
     left_sublist.append(math.inf)
     right_sublist.append(math.inf)
     
-    i = 0
-    j = 0
+    i = j = 0 
 
     # Finally sort elements by comparing elements of left and right sublist.
     for k in range(start_index, end_index + 1):
@@ -36,8 +35,8 @@ def merge(array_list, start_index, mid, end_index):
 
 
 def merge_sort(array_list, start_index, end_index):
-    if start_index < end_index:
-        mid = (start_index + end_index)//2
+    if start_index < end_index:  # The condition is true until only 1 element left in the list.
+        mid = (start_index + end_index)//2  # Generate a value for mid.
         merge_sort(array_list, start_index, mid)  # Create left sublist (n/2).
         merge_sort(array_list, mid + 1, end_index)  # Create right sublist (n/2).
         merge(array_list, start_index, mid, end_index)  # Merge created sub-lists in recursive manner.

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env
 # Python script to perform Insertion Sort and Binary Insertion Sort on a given 1D array or list.
 # Worst Case Complexity O(n^2)
 

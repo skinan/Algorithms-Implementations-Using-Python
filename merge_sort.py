@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env
 # Python script to perform Merge Sort on a given array/ list / matrix(1D)
 # Worst Case Complexity O(n*log(n))
 
@@ -18,7 +18,7 @@ def merge(array_list, start_index, mid, end_index):
     for j in range(0, length_right):
         right_sublist[j] = array_list[mid + j + 1]
 
-    # Append "infinity" as the last element of two sublist.
+    # Append "infinity" as the last element of two sub-lists.
     left_sublist.append(math.inf)
     right_sublist.append(math.inf)
     

@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Python script to perform Merge Sort on a given array/ list / matrix(1D)
-# Worst Case Complexity O(nlog(n))
+# Worst Case Complexity O(n*log(n))
 
 import math
 
@@ -22,7 +22,7 @@ def merge(array_list, start_index, mid, end_index):
     left_sublist.append(math.inf)
     right_sublist.append(math.inf)
     
-    i = j = 0 
+    i = j = 0
 
     # Finally sort elements by comparing elements of left and right sublist.
     for k in range(start_index, end_index + 1):

@@ -37,7 +37,7 @@ def binary_insertion_sort(given_array):  # Function for Binary Insertion Sort
 
 def insertion_sort(given_array):  # Function for Insertion Sort
     for i in range(1, len(given_array)):  # (n - 1) passes for n elements in a list.
-        key = given_array[i]  # Taking every element in the list as a key in every iteration.
+        key = given_array[i]  # Taking one element in the list as a key in every iteration.
         j = i - 1
         while j >= 0 and key < given_array[j]:
             given_array[j + 1] = given_array[j]

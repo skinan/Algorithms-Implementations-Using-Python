@@ -21,7 +21,7 @@ def merge(given_array, start_index, mid, end_index):
     # Append "infinity" as the last element of two sub-lists.
     left_sublist.append(math.inf)
     right_sublist.append(math.inf)
-    
+
     i = j = 0
 
     # Finally sort elements by comparing elements of left and right sublists.
@@ -43,7 +43,7 @@ def merge_sort(given_array, start_index, end_index):
 
 
 def main():
-    given_array: list = [8, 2, 4, 9, 3, 6]  # Test Array / List
+    given_array: list = list(map(int, input().split(" ")))  # Test Array / List
     print("Given Array/List: ", given_array)
     merge_sort(given_array, 0, len(given_array) - 1)
     print("After Sorting: ", given_array)

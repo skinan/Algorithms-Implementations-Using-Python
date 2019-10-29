@@ -1,5 +1,5 @@
 #!/usr/bin/env
-# Problem: Finding A Maximum Sum Contiguous Sub Array An Given List/Array.(Using Kadane's Algorithm)
+# Problem: Finding A Maximum Sum Contiguous Sub Array From An Given List/Array.(Using Kadane's Algorithm)
 # Time Complexity: O(n)
 # Dynamic Programming
 import math

@@ -43,7 +43,7 @@ def merge_sort(given_array, start_index, end_index):
 
 
 def main():
-    given_array: list = list(map(int, input().split(" ")))  # Test Array / List
+    given_array: list = [4, 1, 5, -3, 6, 0, 1]  # Test Array / List
     print("Given Array/List: ", given_array)
     merge_sort(given_array, 0, len(given_array) - 1)
     print("After Sorting: ", given_array)

@@ -47,12 +47,13 @@ def insertion_sort(given_array):  # Function for Insertion Sort
 
 def main():
     given_array: list = [8, 2, 4, 9, 3, 6]  # Test Array / List
-    insertion_sort(given_array)  # Returns a sorted list in ascending order.
     print("Insertion Sort\n" + "Given Array/list: ", given_array)
+    insertion_sort(given_array)  # Returns a sorted list in ascending order.
     print("After Sorting: ", given_array)
+
     array1: list = [5, 2, 10, 9, 11, 6]  # Test Array / List
-    binary_insertion_sort(array1)  # Returns a sorted list in ascending order.
     print("Binary Insertion Sort\n"+"Given Array/list: ", array1)
+    binary_insertion_sort(array1)  # Returns a sorted list in ascending order.
     print("After Sorting: ", array1)
 
 

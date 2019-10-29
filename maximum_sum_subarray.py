@@ -36,6 +36,7 @@ def maximum_sum_subarray(given_array, start_index, end_index):
 
 def main():
     given_array = [-2, -5, 6, -2, -3, 1, 5, -6]
+    print("Given Array:  ", given_array)
     print("Maximum Sum of Contiguous Sub Array : ", maximum_sum_subarray(given_array, 0, len(given_array) - 1))
 
 

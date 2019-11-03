@@ -31,7 +31,7 @@ def heapify(given_array, i, n):
 
 def heap_sort(given_array):
     n = len(given_array) - 1  # Find the index of last element in array.
-    while n >= 0:
+    while n > 0:
         heapify(given_array, 0, n)
         # Swap the last element of heap with first element.
         given_array[0], given_array[n] = given_array[n], given_array[0]

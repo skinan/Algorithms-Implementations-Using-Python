@@ -1,4 +1,4 @@
-from graph import Graph
+from Graph.graph import Graph
 from collections import deque
 
 
@@ -46,7 +46,7 @@ def dfs(graph):
         dfs_search(graph, node, stack)
         node = stack.pop()
         ans.append(node)
-    print("The Traversal Order For Depth First Search: ", end=" ")
+    print("The Traversal Order For Depth First Search Is: ", end=" ")
     for i in reversed(ans):
         print(i, end=" ")
     print()

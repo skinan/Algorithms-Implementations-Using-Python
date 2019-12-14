@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94e4621f-4071-4892-a5e1-ab49e5551156" name="Default Changelist" comment="" />
+    <list default="true" id="3ac69631-8bf4-498a-8bc9-e4dffb1b17b8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
-    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="WARN_ABOUT_CRLF" value="false" />
-    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Graph/prim's_algorithm.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectId" id="1UshEBqYUVz4djMTKkFkYhCQs1D" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Uyy4fGKZhFbvtxlJFOQazb6cxc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,70 +18,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings module-name="Algorithms-Implementations-Using-Python" is-module-sdk="true">
-        <option name="myUseModuleSdk" value="true" />
-        <option name="myModuleName" value="Algorithms-Implementations-Using-Python" />
-      </console-settings>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.kruskal’s_algorithm(MST)">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithms-Implementations-Using-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bfs_and_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms-Implementations-Using-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/bfs_and_dfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="kruskal’s_algorithm(MST)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms-Implementations-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,86 +44,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms-Implementations-Using-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="min_max_algorithm(divide_and_conquer)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms-Implementations-Using-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/min_max_algorithm(divide_and_conquer).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prim's_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms-Implementations-Using-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/prim's_algorithm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.bfs_and_dfs" />
-      <item itemvalue="Python.kruskal’s_algorithm(MST)" />
-      <item itemvalue="Python.merge_sort" />
-      <item itemvalue="Python.min_max_algorithm(divide_and_conquer)" />
-      <item itemvalue="Python.prim's_algorithm" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.kruskal’s_algorithm(MST)" />
-        <item itemvalue="Python.prim's_algorithm" />
-        <item itemvalue="Python.merge_sort" />
-        <item itemvalue="Python.min_max_algorithm(divide_and_conquer)" />
-        <item itemvalue="Python.bfs_and_dfs" />
       </list>
     </recent_temporary>
   </component>
@@ -215,22 +63,16 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\SAKIB\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94e4621f-4071-4892-a5e1-ab49e5551156" name="Default Changelist" comment="" />
-      <created>1576151096004</created>
+      <changelist id="3ac69631-8bf4-498a-8bc9-e4dffb1b17b8" name="Default Changelist" comment="" />
+      <created>1576342939985</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576151096004</updated>
-      <workItem from="1576151102806" duration="781000" />
-      <workItem from="1576162367955" duration="2601000" />
-      <workItem from="1576168407018" duration="49000" />
-      <workItem from="1576239239226" duration="7897000" />
-      <workItem from="1576253324955" duration="10276000" />
-      <workItem from="1576304438634" duration="7109000" />
-      <workItem from="1576342552418" duration="212000" />
+      <updated>1576342939985</updated>
+      <workItem from="1576342943473" duration="24000" />
     </task>
     <servers />
   </component>
@@ -238,89 +80,28 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1576243982994">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1576343001914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1576243982994" />
-    <state x="275" y="21" key="#Notifications" timestamp="1576162452959">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576343001914" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1576343001914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1576162452959" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576314997398">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576343001914" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1576343001913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576314997398" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1576168435595">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576343001913" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1576343001914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576168435595" />
-    <state width="1323" height="252" key="GridCell.Tab.0.bottom" timestamp="1576342756181">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576343001914" />
+    <state x="184" y="5" key="SettingsEditor" timestamp="1576342966380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
-    <state width="1323" height="252" key="GridCell.Tab.0.center" timestamp="1576342756181">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="252" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
-    <state width="1323" height="252" key="GridCell.Tab.0.left" timestamp="1576342756181">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="252" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
-    <state width="1323" height="252" key="GridCell.Tab.0.right" timestamp="1576342756181">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="252" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
-    <state width="1323" height="570" key="GridCell.Tab.1.bottom" timestamp="1576315292421">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
-    <state width="1323" height="570" key="GridCell.Tab.1.center" timestamp="1576315292421">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
-    <state width="1323" height="570" key="GridCell.Tab.1.left" timestamp="1576315292421">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
-    <state width="1323" height="570" key="GridCell.Tab.1.right" timestamp="1576315292421">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
-    <state x="184" y="5" key="SettingsEditor" timestamp="1576315017017">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576315017017" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1576243305141">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1576243305141" />
-    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1576151106454">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576151106454" />
-    <state x="244" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576242743613">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="244" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1576242743613" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Graph/kruskal’s_algorithm(MST).py</url>
-          <line>38</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576342966380" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$bfs_and_dfs.coverage" NAME="bfs_and_dfs Coverage Results" MODIFIED="1576162929847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1576168109634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kadane_s_algorithm.coverage" NAME="kadane's_algorithm Coverage Results" MODIFIED="1576151244561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kruskals_algorithm_MST_.coverage" NAME="kruskal’s_algorithm(MST) Coverage Results" MODIFIED="1576342754075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$prim_s_algorithm.coverage" NAME="prim's_algorithm Coverage Results" MODIFIED="1576342662954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1576162666996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$min_max_algorithm_divide_and_conquer_.coverage" NAME="min_max_algorithm(divide_and_conquer) Coverage Results" MODIFIED="1576168102634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kruskals_algorithm_MST_.coverage" NAME="kruskal’s_algorithm(MST) Coverage Results" MODIFIED="1576342979101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
   </component>
 </project>

@@ -52,7 +52,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prim's_algorithm">
+  <component name="RunManager" selected="Python.kruskal’s_algorithm(MST)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithms-Implementations-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +167,9 @@
       <module name="Algorithms-Implementations-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -191,8 +194,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prim's_algorithm" />
         <item itemvalue="Python.kruskal’s_algorithm(MST)" />
+        <item itemvalue="Python.prim's_algorithm" />
         <item itemvalue="Python.merge_sort" />
         <item itemvalue="Python.min_max_algorithm(divide_and_conquer)" />
         <item itemvalue="Python.bfs_and_dfs" />
@@ -227,6 +230,7 @@
       <workItem from="1576239239226" duration="7897000" />
       <workItem from="1576253324955" duration="10276000" />
       <workItem from="1576304438634" duration="7109000" />
+      <workItem from="1576342552418" duration="212000" />
     </task>
     <servers />
   </component>
@@ -250,22 +254,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576168435595" />
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1576315292421">
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom" timestamp="1576342756181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
-    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1576315292421">
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
+    <state width="1323" height="252" key="GridCell.Tab.0.center" timestamp="1576342756181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
-    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1576315292421">
+    <state width="1323" height="252" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
+    <state width="1323" height="252" key="GridCell.Tab.0.left" timestamp="1576342756181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
-    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1576315292421">
+    <state width="1323" height="252" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
+    <state width="1323" height="252" key="GridCell.Tab.0.right" timestamp="1576342756181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576315292421" />
+    <state width="1323" height="252" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576342756181" />
     <state width="1323" height="570" key="GridCell.Tab.1.bottom" timestamp="1576315292421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -299,12 +303,23 @@
     </state>
     <state x="244" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1576242743613" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Graph/kruskal’s_algorithm(MST).py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$bfs_and_dfs.coverage" NAME="bfs_and_dfs Coverage Results" MODIFIED="1576162929847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1576168109634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kadane_s_algorithm.coverage" NAME="kadane's_algorithm Coverage Results" MODIFIED="1576151244561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kruskals_algorithm_MST_.coverage" NAME="kruskal’s_algorithm(MST) Coverage Results" MODIFIED="1576314972891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$prim_s_algorithm.coverage" NAME="prim's_algorithm Coverage Results" MODIFIED="1576315269042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kruskals_algorithm_MST_.coverage" NAME="kruskal’s_algorithm(MST) Coverage Results" MODIFIED="1576342754075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$prim_s_algorithm.coverage" NAME="prim's_algorithm Coverage Results" MODIFIED="1576342662954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1576162666996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$min_max_algorithm_divide_and_conquer_.coverage" NAME="min_max_algorithm(divide_and_conquer) Coverage Results" MODIFIED="1576168102634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

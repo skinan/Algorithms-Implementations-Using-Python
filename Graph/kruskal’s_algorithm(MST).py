@@ -17,7 +17,8 @@ def krushkal_algo(graph):
         elif check_list[e.source_node].isdisjoint(check_list[e.destination_node]):
             check_list[e.source_node] = check_list[e.source_node] | check_list[e.destination_node]  # Union Operation 
             # Set of connections for source and destination are same because of being undirected graph.
-            check_list[e.destination_node] = check_list[e.source_node]  
+            for i in check_list[e.source_node]:
+                check_list[i] = check_list[e.source_node]
             # Consider the following edge connection as a part of Minimum Spanning Tree.
             mst_list.append(e)
             # Count how many edges or connection are added till now in MST.

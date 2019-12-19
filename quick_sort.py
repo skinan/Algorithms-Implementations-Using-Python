@@ -5,16 +5,16 @@
 
 
 def partition(given_array, start_index, end_index):
-    i = start_index - 1
+    i = start_index
 
     pivot = given_array[end_index]
     for j in range(start_index, end_index):
         if given_array[j] < pivot:
-            i += 1
             given_array[i], given_array[j] = given_array[j], given_array[i]
+            i += 1
 
-    given_array[i + 1], given_array[end_index] = given_array[end_index], given_array[i + 1]
-    return i + 1
+    given_array[i], given_array[end_index] = given_array[end_index], given_array[i]
+    return i
 
 
 def quick_sort(given_array, start_index, end_index):

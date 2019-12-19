@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ac69631-8bf4-498a-8bc9-e4dffb1b17b8" name="Default Changelist" comment="" />
+    <list default="true" id="26820656-a8f5-4410-8112-650989fda11f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Uyy4fGKZhFbvtxlJFOQazb6cxc" />
+  <component name="ProjectId" id="1VCfovls4HThubpJQIw30aCjVSh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,12 +81,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ac69631-8bf4-498a-8bc9-e4dffb1b17b8" name="Default Changelist" comment="" />
-      <created>1576342939985</created>
+      <changelist id="26820656-a8f5-4410-8112-650989fda11f" name="Default Changelist" comment="" />
+      <created>1576762176373</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576342939985</updated>
-      <workItem from="1576342943473" duration="24000" />
+      <updated>1576762176373</updated>
+      <workItem from="1576762182920" duration="873000" />
     </task>
     <servers />
   </component>
@@ -80,28 +94,28 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1576343001914">
+    <state width="1323" height="349" key="GridCell.Tab.0.bottom" timestamp="1576763052306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576343001914" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1576343001914">
+    <state width="1323" height="349" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576763052306" />
+    <state width="1323" height="349" key="GridCell.Tab.0.center" timestamp="1576763052305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576343001914" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1576343001913">
+    <state width="1323" height="349" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576763052305" />
+    <state width="1323" height="349" key="GridCell.Tab.0.left" timestamp="1576763052305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576343001913" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1576343001914">
+    <state width="1323" height="349" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576763052305" />
+    <state width="1323" height="349" key="GridCell.Tab.0.right" timestamp="1576763052306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576343001914" />
-    <state x="184" y="5" key="SettingsEditor" timestamp="1576342966380">
+    <state width="1323" height="349" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576763052306" />
+    <state x="184" y="5" key="SettingsEditor" timestamp="1576762271336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576342966380" />
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576762271336" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kruskals_algorithm_MST_.coverage" NAME="kruskal’s_algorithm(MST) Coverage Results" MODIFIED="1576342979101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/Algorithms_Implementations_Using_Python$kruskals_algorithm_MST_.coverage" NAME="kruskal’s_algorithm(MST) Coverage Results" MODIFIED="1576763025047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
   </component>
 </project>

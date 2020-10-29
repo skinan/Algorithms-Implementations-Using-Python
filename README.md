@@ -1,6 +1,6 @@
-# Algorithms Using Python
+# Algorithms Implementation Using Python
 
-Common algorithms that I learnt and coded in Python during my mission of learning the basics of algortihms.
+Common algorithms coded in Python during my mission of learning the basics of algortihms.
 The implementations are done in Python Programming Languages.
 
 # Contribution
